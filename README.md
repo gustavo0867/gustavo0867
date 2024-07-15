@@ -1,3 +1,5 @@
+
+<!--
 ## Hi there 👋
 
 # Título 1 
@@ -9,7 +11,9 @@
 
 
 *flksjdflksj* 
+
 ** teatando o negrito** 
+
 ***italico e negrito***
 
 
@@ -17,12 +21,38 @@
 - Lista 2
   - sublista
 
+1. teste 
+4. teste
+      1. oia
+
+
+[teatro](https://blog.123milhas.com/wp-content/uploads/2022/09/campanhas-de-popularizacao-do-teatro-no-brasil-conexao123.jpg)
+
+![SEILA]()
+
+
+
+
+> citacoesdshadjkaajkdashj
+----------------------
+
+|cabeaclajso | djajddaj |
+|------------|----------|
+|cabeaclajso | djajddaj |
+|------------|----------|
 
 
 
 
 
-<!--
+
+
+- [X] Tarefa 1 
+- [ ] tarefa 2
+
+
+
+
 **gustavo0867/gustavo0867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

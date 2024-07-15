@@ -8,8 +8,14 @@
 ###### teruoieew 6 
 
 
+*flksjdflksj* 
+** teatando o negrito** 
+***italico e negrito***
 
 
+- Lista 1
+- Lista 2
+  - sublista
 
 
 

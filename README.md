@@ -1,9 +1,25 @@
 <center><h1> 👋 Hello World, Sou o Gustavo! </h1></center>
 
 
-![g](https://camo.githubusercontent.com/1e4399d656f88b51990805a21e6ce8d38c091f9d83414bdea73e87182c4d7263/68747470733a2f2f657870657269656e6369616a6f76656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f6772616d6163696f6e5f67616d65725f3030312e676966)
+![g](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
 
+🔧 Técnico em Informática - IFSP/PEP
+
+🎓 Graduando 6° Período Sistemas de Informação - UFGD
+
+💼 Atualmente trabalho como Instrutor de Robótica e Programação - MY ROBOT SCHOOL
+
+🚀 Entusiasmado para compartilhar meus aprendizados e progressos com vocês!
+
+
+
+
+---
+### 🔌Conecte-se
+---
+
+![https://www.linkedin.com/in/gustavo-ferreira-991966218/](https://camo.githubusercontent.com/1eb33990480a39c47e0bafb674690c7a86e0e38b1af00ff6eb071a963b3a2287/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373262313f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465)
 
 
 

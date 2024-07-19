@@ -27,7 +27,7 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavo0867&theme=dark&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavo0867&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 
 
 ## 📚 Tecnologias que estou estudando!
@@ -39,11 +39,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo0867&hide_title=true&border_color=8300ff&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo0867&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gustavo0867&theme=dark&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gustavo0867&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 
 

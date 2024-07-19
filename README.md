@@ -1,7 +1,7 @@
+<center><h1> 👋 Hello World, Sou o Gustavo! </h1></center>
 
 
-
-![g](https://miro.medium.com/v2/resize:fit:1400/1*sA0AMVP_aekZ40A1g-39HA.gif)
+![g](https://camo.githubusercontent.com/1e4399d656f88b51990805a21e6ce8d38c091f9d83414bdea73e87182c4d7263/68747470733a2f2f657870657269656e6369616a6f76656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f6772616d6163696f6e5f67616d65725f3030312e676966)
 
 
 
@@ -24,7 +24,7 @@
 ## Hi there 👋]
 
 
-<center><h1> 👋 Hello World, Sou o Gustavo! </h1></center>
+
 
 
 # Título 1 

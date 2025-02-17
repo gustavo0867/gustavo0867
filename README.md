@@ -1,12 +1,9 @@
 <center><h1> 👋 Hello World, Sou o Gustavo! </h1></center>
 
 
-![g](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
-
-
 🔧 Técnico em Informática - IFSP/PEP
 
-🎓 Graduando 6° Período Sistemas de Informação - UFGD
+🎓 Graduando 7° Período Sistemas de Informação - UFGD
 
 💼 Atualmente trabalho como Instrutor de Robótica e Programação - MY ROBOT SCHOOL
 
@@ -19,8 +16,11 @@
 [![Gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbrasilreis08@gmail.com)
 
 ## 🛠️ Habilidades!
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)

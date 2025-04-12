@@ -22,6 +22,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JasperReports Server](https://img.shields.io/badge/JasperReports_Server-CC2020?style=for-the-badge&logo=report&logoColor=white)
+
 
 
 ## 🔌Conecte-se

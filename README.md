@@ -5,7 +5,7 @@
 
 🎓 Graduando 7° Período Sistemas de Informação - UFGD
 
-💼 Atualmente trabalho como Desenvolvedor Junior - Gênesis Tecnologia e Inovação
+💼 Atualmente trabalho como Desenvolvedor Júnior - Gênesis Tecnologia e Inovação
 
 ## 🛠️ Habilidades!
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

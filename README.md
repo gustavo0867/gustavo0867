@@ -3,7 +3,7 @@
 
 🔧 Técnico em Informática - IFSP/PEP
 
-🎓 Graduando 7° Período Sistemas de Informação - UFGD
+🎓 Graduando 8° Período Sistemas de Informação - UFGD
 
 💼 Atualmente trabalho como Desenvolvedor Júnior - Gênesis Tecnologia e Inovação
 

@@ -42,15 +42,6 @@ Sou desenvolvedor de software graduado em **Sistemas de Informação pela UFGD**
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavo0867&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo0867&layout=compact&theme=midnight-purple" />
-</p>
-
----
-
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guferreira08/)
